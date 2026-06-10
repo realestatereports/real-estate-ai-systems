@@ -131,8 +131,8 @@ architecture delivers.
 
 ## For Decision-Makers
 
-📎 [Capability Brief — Dubai (Full-Time · Visa Sponsorship)](docs/Sikandar_Chopra_AI_Brief_Dubai.pdf)  
-📎 [Capability Brief — India (Consulting · Project · Pilot)](docs/Sikandar_Chopra_AI_Brief_India.pdf)  
+📎 [Capability Brief — Dubai (Full-Time · Visa Sponsorship)](AI_Brief_Dubai.pdf)  
+📎 [Capability Brief — India (Consulting · Project · Pilot)](AI_Brief_India.pdf)  
 📅 [Book a 30-minute call](https://calendar.app.google/csDWQJVFXjCedsj69)  
 ✉️ [Hello@realestatereports.in]  
 💼 [LinkedIn](www.linkedin.com/in/sikandar-c-075480406)  
